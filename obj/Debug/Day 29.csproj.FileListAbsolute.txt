@@ -1,0 +1,7 @@
+C:\Git\30daysofCode\Day 29\obj\Debug\Day 29.csprojAssemblyReference.cache
+C:\Git\30daysofCode\Day 29\obj\Debug\Day 29.csproj.CoreCompileInputs.cache
+C:\Git\30daysofCode\Day 29\bin\Debug\Day 29.exe.config
+C:\Git\30daysofCode\Day 29\bin\Debug\Day 29.exe
+C:\Git\30daysofCode\Day 29\bin\Debug\Day 29.pdb
+C:\Git\30daysofCode\Day 29\obj\Debug\Day 29.exe
+C:\Git\30daysofCode\Day 29\obj\Debug\Day 29.pdb
